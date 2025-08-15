@@ -99,7 +99,7 @@ The quality of the final answer heavily depends on how you structure the prompt 
 ### Installation
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/NutriChat.git
+    git clone https://github.com/dahiya-04/NutriChat.git
     cd NutriChat
     ```
 2.  Install the required packages. It's recommended to use a virtual environment.
